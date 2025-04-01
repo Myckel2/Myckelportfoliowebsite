@@ -44,7 +44,7 @@
     <div class="container">
         <section id="about">
             <h2>About Me</h2>
-            <p>Hi, I'm [Your Name], a web developer and digital marketing specialist. I create high-performance websites and help businesses grow online.</p>
+            <p>Hi, I'm Andrew, a web developer and digital marketing specialist. I create high-performance websites and help businesses grow online.</p>
         </section>
         <section id="services">
             <h2>My Services</h2>
@@ -52,8 +52,8 @@
         </section>
         <section id="contact">
             <h2>Contact Me</h2>
-            <p>Email: [Your Email]</p>
-            <p>Phone: [Your Phone Number]</p>
+            <p>Email: [bijicejay@gmail.com]</p>
+            <p>Phone: [+1 (615) 629-7367]</p>
             <p>Website: <a href="#">[Your Portfolio Link]</a></p>
         </section>
     </div>
