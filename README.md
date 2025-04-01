@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio - [Your Name]</title>
+    <title>Portfolio - [Andrew]</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -54,7 +54,7 @@
             <h2>Contact Me</h2>
             <p>Email: [bijicejay@gmail.com]</p>
             <p>Phone: [+1 (615) 629-7367]</p>
-            <p>Website: <a href="#">[Your Portfolio Link]</a></p>
+            <p>Website: <a href="#">[https://fredshop.mystrikingly.com]</a></p>
         </section>
     </div>
 </body>
